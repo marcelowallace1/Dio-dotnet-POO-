@@ -1,0 +1,15 @@
+C:\Users\marce\Dio_poo\obj\Debug\net6.0\dio-poo.csproj.AssemblyReference.cache
+C:\Users\marce\Dio_poo\obj\Debug\net6.0\dio-poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Dio_poo\obj\Debug\net6.0\dio-poo.AssemblyInfoInputs.cache
+C:\Users\marce\Dio_poo\obj\Debug\net6.0\dio-poo.AssemblyInfo.cs
+C:\Users\marce\Dio_poo\obj\Debug\net6.0\dio-poo.csproj.CoreCompileInputs.cache
+C:\Users\marce\Dio_poo\bin\Debug\net6.0\dio-poo.exe
+C:\Users\marce\Dio_poo\bin\Debug\net6.0\dio-poo.deps.json
+C:\Users\marce\Dio_poo\bin\Debug\net6.0\dio-poo.runtimeconfig.json
+C:\Users\marce\Dio_poo\bin\Debug\net6.0\dio-poo.dll
+C:\Users\marce\Dio_poo\bin\Debug\net6.0\ref\dio-poo.dll
+C:\Users\marce\Dio_poo\bin\Debug\net6.0\dio-poo.pdb
+C:\Users\marce\Dio_poo\obj\Debug\net6.0\dio-poo.dll
+C:\Users\marce\Dio_poo\obj\Debug\net6.0\ref\dio-poo.dll
+C:\Users\marce\Dio_poo\obj\Debug\net6.0\dio-poo.pdb
+C:\Users\marce\Dio_poo\obj\Debug\net6.0\dio-poo.genruntimeconfig.cache
